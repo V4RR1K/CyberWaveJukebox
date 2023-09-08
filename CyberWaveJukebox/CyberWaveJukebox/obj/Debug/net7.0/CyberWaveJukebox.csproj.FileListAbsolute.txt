@@ -1,0 +1,15 @@
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/bin/Debug/net7.0/CyberWaveJukebox
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/bin/Debug/net7.0/CyberWaveJukebox.deps.json
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/bin/Debug/net7.0/CyberWaveJukebox.runtimeconfig.json
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/bin/Debug/net7.0/CyberWaveJukebox.dll
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/bin/Debug/net7.0/CyberWaveJukebox.pdb
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.csproj.AssemblyReference.cache
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.AssemblyInfoInputs.cache
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.AssemblyInfo.cs
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.csproj.CoreCompileInputs.cache
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.dll
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/refint/CyberWaveJukebox.dll
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.pdb
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/CyberWaveJukebox.genruntimeconfig.cache
+/Users/greglynskey/Desktop/Ordon/Large Projects/CyberGroove/CyberWaveJukebox/CyberWaveJukebox/obj/Debug/net7.0/ref/CyberWaveJukebox.dll
